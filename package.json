@@ -1,0 +1,16 @@
+{
+  "name": "jokebot-tutorial",
+  "version": "1.0.0",
+  "description": "slackbot that tells random jokes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "tsch1",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "prettier": "^1.15.3",
+    "slackbots": "^1.2.0"
+  }
+}
